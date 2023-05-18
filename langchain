@@ -1,0 +1,39 @@
+A comprehensive guide of resources to build  LangChain + LLM 
+
+ 🔗 What is LangChain? 
+LangChain is a powerful framework to build applications with LLMs. It enhances the capabilities of LLMs by providing a standard interface for prompt templates and integration of language models with different APIs and external databases. It can be used to build a chatbot, a Q&A answering platform, and any intelligent applications that can understand natural language and respond to user requests in real-time.
+
+• Documentation- https://lnkd.in/gYYzfWn9
+• Github - https://lnkd.in/gJxjJtB8
+• Official LangChain Blog - https://lnkd.in/gisb52XF
+• Medium post (Getting started with LangChain) - https://lnkd.in/g8edFeYN
+• Youtube videos
+    • LangChain explained by AssemblyAI - https://lnkd.in/gWPffKzg
+    • LangChain video series by Data Independent - https://lnkd.in/gW7gDn75
+    • LangChain Crash Course by Patrick Löber - https://lnkd.in/gYsywH3N
+    • LangChain series by James Briggs - https://lnkd.in/gpZNZNTE
+
+ 💻 Deploying LangChain
+• LangChain-streamlit Template - https://lnkd.in/gNe_rrKg
+• LangChain Gradio Template - https://lnkd.in/g-SP9YUD
+• More examples - https://lnkd.in/gwUFgvjP
+
+📈 LangChain with MLFlow
+• API for logging and loading LangChain models - https://lnkd.in/g6_fDafN
+• Example - https://lnkd.in/g3SKjh9b
+
+ 🔒 LangChain with NeMo Guardrails (building safe and secure apps)
+• Github - https://lnkd.in/gXwgvwKK
+• Example - https://lnkd.in/g2ryB9Em
+
+🌟 LangFlow - GUI for LangChain
+• Github - https://lnkd.in/gDPzPJXU
+• Medium - https://lnkd.in/gd5rWHHq
+• LangFlow via HuggingFace - https://lnkd.in/gkz8Da7T
+
+🚀 Popular use cases examples -
+• Chatbots -https://lnkd.in/gUfBJSNr
+• Question Answering over Docs - https://lnkd.in/gXUSzCE7
+• More examples of tools and projects - https://lnkd.in/gr874f_Y
+
+ 💡 Pro Tip - You can join LangChain Discord channel (https://lnkd.in/gha6z34N) to keep yourself up-to-date.
