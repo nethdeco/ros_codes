@@ -7,7 +7,7 @@ Frequently used libraries 8Thanks for following work:)
 * [ORB-SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) (ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM)
 * [LiLi-OM](https://github.com/KIT-ISAS/lili-om) (Towards High-Performance Solid-State-LiDAR-Inertial Odometry and Mapping)
 * [MSCKF_VIO](https://github.com/KumarRobotics/msckf_vio) (Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight)
-* [LOCUS](ttps://github.com/NeBula-Autonomy/LOCUS )  (Robust Lidar Odometry System )
+* [LOCUS](https://github.com/NeBula-Autonomy/LOCUS )  (Robust Lidar Odometry System )
 
 
 
