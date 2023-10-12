@@ -1,5 +1,5 @@
 
-## Frequently used libraries 8Thanks for following work:)
+## Frequently used libraries (Thanks for following work:)
 
 * [LOAM](https://github.com/cuitaixiang/LOAM_NOTED) (LOAM: Lidar Odometry and Mapping in Real-time)
 * [VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) (VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator)
